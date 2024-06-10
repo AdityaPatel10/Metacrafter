@@ -4,10 +4,6 @@ This project is based on solidity. The "Create a Token" project is a simple smar
 
 ## Description
 
-# Create a Token
-
-## Description
-
 The "Create a Token" project provides a comprehensive solution for deploying and managing a custom token on the Ethereum blockchain. This smart contract allows users to mint new tokens, effectively increasing the total supply, and burn existing tokens, reducing the total supply. The contract keeps a precise record of each address's token balance, ensuring transparency and accuracy in token distribution. Designed with simplicity and functionality in mind, the project enables easy integration of token-based features into decentralized applications (dApps). Whether you're looking to create a new cryptocurrency, implement a rewards system, or launch an initial coin offering (ICO), this project provides the essential tools to manage your token efficiently. Its straightforward approach makes it accessible for developers of all levels, offering a robust foundation for building more complex token-based systems in the future.
 
 ## Getting Started
@@ -62,4 +58,4 @@ By following these steps, you'll successfully deploy and interact with your cust
 ## Author
 
 Aditya Patel
-[aditya97556@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGMSpCxmnLdXmRgCxLWVSfxzLsDGnZvcRFGhGnhJCDDmcTCpHrVtHmrXbKjxsxZKDHRVPdJ)
+[aditya97556@gmail.com]
